@@ -1,0 +1,7 @@
+ChatApp is native python -> just linked between client and server
+
+server -> public chat room with profile with login, register, and back last 10 msg from database run :
+python manage.py runserver
+server2 -> contian both public chat and another app is private chat,
+but it's not compelete yet for front end but if i wanna run it by : 
+python manage.py run_chat_server_uvloop
